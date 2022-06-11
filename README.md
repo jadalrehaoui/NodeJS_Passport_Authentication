@@ -1,5 +1,13 @@
 **About this repo**
 
+<<<<<<< HEAD
+=======
+npm => passport v0.4.1 the newer versions need different implementation
+console.cloud.google.com => create a project
+
+**About this repo**
+
+>>>>>>> af3454c7651dcc34a0df39951d78345aa4656ba9
 Hello everyone, Glad you found this repo as it will saves you time implementing the authentication for you NodeJS/ExpressJS server
 
 This repo is using passport module, not the newest, the 0.4.1 version, if you by mistake installed the new one just change the version in package.json and npm install --save again so you get the specific version.
